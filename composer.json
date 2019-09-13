@@ -11,7 +11,7 @@
     ],
     "require": {},
     "scripts": {
-        "test": "php bin/copy test/src/specs.json"
+        "test": "php bin/cli-copy test/src/specs.json"
     },
     "bin": ["bin/cli-copy"]
 }
