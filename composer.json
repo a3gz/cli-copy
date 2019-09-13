@@ -13,5 +13,5 @@
     "scripts": {
         "test": "php bin/copy test/src/specs.json"
     },
-    "bin": ["bin/copy"]
+    "bin": ["bin/cli-copy"]
 }
